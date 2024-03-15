@@ -1,6 +1,6 @@
 package com.example.onlineordertrackingsystem.controller;
 
-import com.example.onlineordertrackingsystem.beans.AuthenticationResponse;
+import com.example.onlineordertrackingsystem.model.AuthenticationResponse;
 import com.example.onlineordertrackingsystem.dto.UserDto;
 import com.example.onlineordertrackingsystem.service.UserService;
 import org.springframework.context.annotation.Lazy;

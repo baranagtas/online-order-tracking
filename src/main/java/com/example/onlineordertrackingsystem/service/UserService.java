@@ -1,8 +1,7 @@
 package com.example.onlineordertrackingsystem.service;
 
-import com.example.onlineordertrackingsystem.beans.AuthenticationResponse;
+import com.example.onlineordertrackingsystem.model.AuthenticationResponse;
 import com.example.onlineordertrackingsystem.dto.UserDto;
-import com.example.onlineordertrackingsystem.model.User;
 
 import java.util.List;
 

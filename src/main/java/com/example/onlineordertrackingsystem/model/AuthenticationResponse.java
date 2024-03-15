@@ -1,4 +1,4 @@
-package com.example.onlineordertrackingsystem.beans;
+package com.example.onlineordertrackingsystem.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

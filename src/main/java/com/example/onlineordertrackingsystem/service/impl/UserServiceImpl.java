@@ -1,6 +1,6 @@
 package com.example.onlineordertrackingsystem.service.impl;
 
-import com.example.onlineordertrackingsystem.beans.AuthenticationResponse;
+import com.example.onlineordertrackingsystem.model.AuthenticationResponse;
 import com.example.onlineordertrackingsystem.dto.UserDto;
 import com.example.onlineordertrackingsystem.enums.UserRole;
 import com.example.onlineordertrackingsystem.model.User;
